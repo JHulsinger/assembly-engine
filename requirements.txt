@@ -1,0 +1,7 @@
+mlx-lm
+outlines
+tree-sitter
+tree-sitter-python
+pydantic
+rich
+pyinstaller

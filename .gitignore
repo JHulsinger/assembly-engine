@@ -1,0 +1,36 @@
+# Build artifacts
+/target/
+rust_compiler/target/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Generated files
+inverted_index.json
+output.py
+generated_script.py
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Package artifacts
+.assembly_engine/
+dist/
+build/
+*.egg-info/
+
+# Model cache (downloaded at runtime)
+.cache/
